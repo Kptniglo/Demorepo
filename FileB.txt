@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is not file A
 We changed something, but its not working
 I changed another thing!
+=======
+This is file B!
+A change?
+change 2
+>>>>>>> featureA

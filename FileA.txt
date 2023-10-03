@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 This is file A
 More changes?
 Yes now its working, i have to save it first!
 
 
+=======
+This is file A!
+Another change!
+>>>>>>> featureA

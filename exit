@@ -1,0 +1,41 @@
+[33mcommit f27d7e91a55906163ffc1ba39b0f98db436f4bc9[m[33m ([m[1;36mHEAD -> [m[1;32mfeatureA[m[33m)[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Tue Oct 3 08:41:25 2023 +0200
+
+    added fileC.txt
+
+[33mcommit c3b624ad1a81b6b09ee918594cc9ab075cb363f9[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Tue Oct 3 08:36:09 2023 +0200
+
+    deployment 03-10, 08:36
+
+[33mcommit c5dd2f0795250a9926c155d2317ce3a3105d7e04[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Mon Oct 2 15:25:46 2023 +0200
+
+    change 15:25
+
+[33mcommit 3c19046aa5f4c12b1059d0bf62da108fae7bc2bc[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Mon Oct 2 13:27:11 2023 +0200
+
+    change 13:26
+
+[33mcommit ffa72983488975e2c48d2bcc21b14c7804052b66[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Mon Oct 2 12:50:15 2023 +0200
+
+    first changes
+
+[33mcommit 3213d978e8d8a7008cab57ccd255189532edeecb[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Mon Oct 2 12:33:18 2023 +0200
+
+    initial commit
+
+[33mcommit 312aff806eb2173a57b978b6b035874c274ca73e[m
+Author: Bengt Sweep <bengt.sweep@royalreesink.com>
+Date:   Mon Oct 2 12:29:42 2023 +0200
+
+    initial commit
